@@ -1,4 +1,9 @@
+3
+
 say "Hello World".
 say "What's your name?".
 ask name.
 say "Hello " and name and "!".
+
+<%pyth%>
+<%pyth%>
